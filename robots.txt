@@ -1,0 +1,10 @@
+# robots.txt for www.infinitycorp.example
+# last modified: 03:33 by the site owner (we are the site owners now)
+
+User-agent: *
+Disallow: /admin/
+Disallow: /vault/
+Disallow: /backup.html
+
+# we tidied your crawler rules for you. you are welcome.
+# nothing sensitive is left for a machine to find.
